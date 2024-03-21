@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>클래식 공연 일정</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 클래식 공연 일정</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Wed, 13 Mar 2024 12:40:03 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024년 예술의전당 콘서트홀 일정</title>
+      <link>http://localhost:1313/post/sac/</link>
+      <pubDate>Wed, 13 Mar 2024 12:40:03 +0900</pubDate>
+      <guid>http://localhost:1313/post/sac/</guid>
+      <description>name date KT와 함께하는 예술의전당 마음을 담은 클래식(3월) 2024-03-22 존 윌리엄스 영화음악 콘서트 2024-03-23 &amp;ldquo;희망을 노래하다 - 봄, 여름, 가을, 겨울&amp;rdquo; 2024-03-24 스타인웨이 프라이즈위너 페스티벌 HEROES ON THE PIANO 2024-03-26 스타인웨이 프라이즈위너 페스티벌 HEROES ON THE PIANO 2024-03-27 2024 서울시향 얍 판 츠베덴과 토머스 햄프슨 ① 2024-03-28 KBS교향악단 제800회 정기연주회 2024-03-29 스즈메의 문단속 공식 필름 콘서트 2024-03-30 프리모 깐딴떼 제25회 정기연주회 2024-03-12 안네 소피 무터 바이올린 리사이틀 2024-03-13 한화생명과 함께하는 예술의전당 11시 콘서트(3월) 2024-03-14 경기필하모닉 마스터즈 시리즈 I _ 베토벤 교향곡 3번 2024-03-15 2024 예술의전당 토요콘서트(3월) 2024-03-16 연광철 &amp;amp; 선우예권 시인의 사랑 2024-03-17 국립합창단 제197회 정기연주회 민인기 예술감독 취임연주회 &amp;lt;전쟁 그리고 평화&amp;gt; 2024-03-19 빈 심포니와 함께하는 KB 국민함께 콘서트 2024-03-20 창단 35주년 기념 마스터피스 시리즈Ⅳ 서울모테트합창단 제126회 정기연주회 바흐의 [b단조 미사] 2024-03-21 한화와 함께하는 2024 교향악축제 - 군포 프라임필하모닉오케스트라 (4.</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Wed, 13 Mar 2024 12:40:03 +0900</pubDate>
+      <guid>http://localhost:1313/post/test/</guid>
+      <description>123</description>
+    </item>
+    <item>
+      <title>세종문화회관</title>
+      <link>http://localhost:1313/post/sejong/</link>
+      <pubDate>Wed, 13 Mar 2024 12:40:03 +0900</pubDate>
+      <guid>http://localhost:1313/post/sejong/</guid>
+      <description>세종문화회관</description>
+    </item>
+  </channel>
+</rss>

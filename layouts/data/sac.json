@@ -1,0 +1,1 @@
+{{- $csv := .Site.Data.sac | transform.Unmarshal (dict "delimiter" "," "encoding" "UTF-8") -}}{{- $json := $csv | jsonify -}}{{- $json -}}
